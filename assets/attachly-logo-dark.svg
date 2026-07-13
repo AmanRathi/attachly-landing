@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 40" width="184" height="40" fill="none">
+  <defs>
+    
+    <mask id="cut">
+      <rect width="184" height="40" fill="#fff"></rect>
+      <path d="M4 20h30M17 4v32" stroke="#000" stroke-width="2.6"></path>
+      <circle cx="36" cy="20" r="7.5" fill="#000"></circle>
+    </mask>
+  </defs>
+  <g mask="url(#cut)">
+    <rect x="4" y="4" width="30" height="32" rx="8" fill="#f5f5f2"></rect>
+    <rect x="38" y="4" width="10" height="32" rx="5" fill="#7fd6a4"></rect>
+  </g>
+  <circle cx="36" cy="20" r="4.5" fill="#7fd6a4"></circle>
+  <text x="58" y="30.5" font-family="&#39;Bricolage Grotesque&#39;,sans-serif" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#fff">Attachly</text>
+</svg>
